@@ -10,7 +10,7 @@ def run():
     model = UNet(CFG)
     model.load_data()
     model.build()
-    model.train()
+    #model.train()
     model.evaluate()
 
 
