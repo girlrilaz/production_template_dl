@@ -1,0 +1,7 @@
+Flask==2.0.2
+jsonschema==4.3.2
+matplotlib==3.5.1
+#Tensorflow==2.2.0
+tensorflow_datasets==4.4.0
+tfds-nightly
+uWSGI==2.0.18
